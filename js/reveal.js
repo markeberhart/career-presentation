@@ -135,13 +135,13 @@
 			focusBodyOnPageVisibilityChange: true,
 
 			// Transition style
-			transition: 'concave', // none/fade/slide/convex/concave/zoom
+			transition: 'fade', // none/fade/slide/convex/concave/zoom
 
 			// Transition speed
 			transitionSpeed: 'default', // default/fast/slow
 
 			// Transition style for full page slide backgrounds
-			backgroundTransition: 'convex', // none/fade/slide/convex/concave/zoom
+			backgroundTransition: 'concave', // none/fade/slide/convex/concave/zoom
 
 			// Parallax background image
 			parallaxBackgroundImage: '', // CSS syntax, e.g. "a.jpg"
@@ -158,7 +158,7 @@
 			pdfMaxPagesPerSlide: Number.POSITIVE_INFINITY,
 
 			// Number of slides away from the current that are visible
-			viewDistance: 3,
+			viewDistance: 2,
 
 			// Script dependencies to load
 			dependencies: []
