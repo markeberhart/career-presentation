@@ -1,5 +1,11 @@
 # career presentation
 
+A presentation to students on design, development, and GIS.
+
+---
+
+## DEVELOPMENT NOTES 
+
 ERROR for bower install
 
 Fix for PowerShell Script Not Digitally Signed
